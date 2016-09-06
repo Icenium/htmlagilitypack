@@ -73,6 +73,9 @@
     <Compile Include="..\HtmlAgilityPack\HtmlAttributeCollection.cs">
       <Link>HtmlAttributeCollection.cs</Link>
     </Compile>
+    <Compile Include="..\HtmlAgilityPack\HtmlAttributeExtensions.cs">
+      <Link>HtmlAttributeExtensions.cs</Link>
+    </Compile>
     <Compile Include="..\HtmlAgilityPack\HtmlCommentNode.cs">
       <Link>HtmlCommentNode.cs</Link>
     </Compile>
@@ -102,6 +105,9 @@
     </Compile>
     <Compile Include="..\HtmlAgilityPack\HtmlNodeCollection.cs">
       <Link>HtmlNodeCollection.cs</Link>
+    </Compile>
+    <Compile Include="..\HtmlAgilityPack\HtmlNodeExtensions.cs">
+      <Link>HtmlNodeExtensions.cs</Link>
     </Compile>
     <Compile Include="..\HtmlAgilityPack\HtmlNodeNavigator.cs">
       <Link>HtmlNodeNavigator.cs</Link>
