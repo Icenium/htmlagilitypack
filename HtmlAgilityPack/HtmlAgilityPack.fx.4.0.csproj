@@ -72,6 +72,7 @@
   <ItemGroup>
     <Compile Include="EncodingFoundException.cs" />
     <Compile Include="HtmlAttributeCollection.cs" />
+    <Compile Include="HtmlAttributeExtensions.cs" />
     <Compile Include="HtmlCommentNode.cs" />
     <Compile Include="HtmlConsoleListener.cs" />
     <Compile Include="HtmlDocument.PathMethods.cs" />
@@ -80,6 +81,7 @@
     <Compile Include="HtmlNameTable.cs" />
     <Compile Include="HtmlNode.Xpath.cs" />
     <Compile Include="HtmlNodeCollection.cs" />
+    <Compile Include="HtmlNodeExtensions.cs" />
     <Compile Include="HtmlNodeType.cs" />
     <Compile Include="HtmlParseError.cs" />
     <Compile Include="HtmlParseErrorCode.cs" />
